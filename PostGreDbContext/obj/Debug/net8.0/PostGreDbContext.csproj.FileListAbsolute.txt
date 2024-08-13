@@ -1,0 +1,12 @@
+E:\elina\GradationTask\UserService\PostGreDbContext\bin\Debug\net8.0\PostGreDbContext.deps.json
+E:\elina\GradationTask\UserService\PostGreDbContext\bin\Debug\net8.0\PostGreDbContext.dll
+E:\elina\GradationTask\UserService\PostGreDbContext\bin\Debug\net8.0\PostGreDbContext.pdb
+E:\elina\GradationTask\UserService\PostGreDbContext\obj\Debug\net8.0\PostGreDbContext.csproj.AssemblyReference.cache
+E:\elina\GradationTask\UserService\PostGreDbContext\obj\Debug\net8.0\PostGreDbContext.GeneratedMSBuildEditorConfig.editorconfig
+E:\elina\GradationTask\UserService\PostGreDbContext\obj\Debug\net8.0\PostGreDbContext.AssemblyInfoInputs.cache
+E:\elina\GradationTask\UserService\PostGreDbContext\obj\Debug\net8.0\PostGreDbContext.AssemblyInfo.cs
+E:\elina\GradationTask\UserService\PostGreDbContext\obj\Debug\net8.0\PostGreDbContext.csproj.CoreCompileInputs.cache
+E:\elina\GradationTask\UserService\PostGreDbContext\obj\Debug\net8.0\PostGreDbContext.dll
+E:\elina\GradationTask\UserService\PostGreDbContext\obj\Debug\net8.0\refint\PostGreDbContext.dll
+E:\elina\GradationTask\UserService\PostGreDbContext\obj\Debug\net8.0\PostGreDbContext.pdb
+E:\elina\GradationTask\UserService\PostGreDbContext\obj\Debug\net8.0\ref\PostGreDbContext.dll
