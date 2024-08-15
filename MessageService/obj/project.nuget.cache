@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "HfX3Sedqmrh+5WPT9Ua/x2ptOa1if8l6RDOcrB6NdjEgY7cSxQPgfONGtiWj53eDZi4fsOfiB93DRCb1IYA6IA==",
+  "dgSpecHash": "6tQQ3QggR1kjNar9nJOUR9W0vGeQiEYZqSrbKj7VXxsuaiwW0thPq1YuzTieUr4f5nVf9LBgDlmRqZfRaZpFXA==",
   "success": true,
   "projectFilePath": "E:\\elina\\GradationTask\\UserService\\MessageService\\MessageService.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Girls\\.nuget\\packages\\autofac\\6.4.0\\autofac.6.4.0.nupkg.sha512",
+    "C:\\Users\\Girls\\.nuget\\packages\\autofac.extensions.dependencyinjection\\8.0.0\\autofac.extensions.dependencyinjection.8.0.0.nupkg.sha512",
     "C:\\Users\\Girls\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\8.0.7\\microsoft.aspnetcore.authentication.jwtbearer.8.0.7.nupkg.sha512",
     "C:\\Users\\Girls\\.nuget\\packages\\microsoft.entityframeworkcore\\8.0.4\\microsoft.entityframeworkcore.8.0.4.nupkg.sha512",
     "C:\\Users\\Girls\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\8.0.4\\microsoft.entityframeworkcore.abstractions.8.0.4.nupkg.sha512",
@@ -32,6 +34,7 @@
     "C:\\Users\\Girls\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
     "C:\\Users\\Girls\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
     "C:\\Users\\Girls\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512",
+    "C:\\Users\\Girls\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.7.1\\system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512",
     "C:\\Users\\Girls\\.nuget\\packages\\system.identitymodel.tokens.jwt\\7.1.2\\system.identitymodel.tokens.jwt.7.1.2.nupkg.sha512"
   ],
   "logs": []

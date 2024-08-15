@@ -1,4 +1,6 @@
 
+using Autofac;
+using Autofac.Extensions.DependencyInjection;
 using MessageService.Interfaces;
 using MessageService.Models;
 using MessageService.Utils;
@@ -58,6 +60,15 @@ namespace MessageService
             // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
             builder.Services.AddEndpointsApiExplorer();
             builder.Services.AddSwaggerGen();
+
+
+            builder.Host.UseServiceProviderFactory(new AutofacServiceProviderFactory());
+            builder.Host.ConfigureContainer<ContainerBuilder>(containerBuilder =>
+            {
+                containerBuilder.RegisterType<MessageRepository>().As<IMessageRepository>();
+
+            });
+
 
             var app = builder.Build();
 

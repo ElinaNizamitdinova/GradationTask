@@ -45,3 +45,6 @@ E:\elina\GradationTask\UserService\UserService\bin\Debug\net8.0\System.IdentityM
 E:\elina\GradationTask\UserService\UserService\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 E:\elina\GradationTask\UserService\UserService\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
 E:\elina\GradationTask\UserService\UserService\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\elina\GradationTask\UserService\UserService\bin\Debug\net8.0\Autofac.dll
+E:\elina\GradationTask\UserService\UserService\bin\Debug\net8.0\Autofac.Extensions.DependencyInjection.dll
+E:\elina\GradationTask\UserService\UserService\obj\Debug\net8.0\UserService.sourcelink.json
